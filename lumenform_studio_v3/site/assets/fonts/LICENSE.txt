@@ -1,0 +1,8 @@
+Fonts in this folder are self-hosted copies of:
+
+- Instrument Serif (Regular, Italic) — Copyright 2022 The Instrument Serif Project Authors.
+- Golos Text (variable 400–600, Latin subset) — Copyright 2022 The Golos Text Project Authors.
+
+Both are licensed under the SIL Open Font License, Version 1.1:
+https://openfontlicense.org/open-font-license-official-text/
+Source: Google Fonts (fonts.google.com).
